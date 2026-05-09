@@ -6,7 +6,7 @@ import HistoryModal from './components/HistoryModal';
 import ResultModal from './components/ResultModal';
 
 const RESULT_IMAGES = [
-  'https://i.postimg.cc/282XyxJ2/yoli.png',
+  'https://i.postimg.cc/VkWJtDMx/yoli.webp',
   'https://i.postimg.cc/MK5KGhq4/trolos.webp',
   'https://iili.io/BtyzGyP.md.webp',
   'https://i.postimg.cc/PxjCB1tH/besito.webp',
